@@ -13,7 +13,7 @@ Web Programming with Python and JavaScript
  - [x] In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
 
 the website contains 4 html pages
-* index = has a basic introduction ,which uses a.css, and is the first page of website
-* table = contains a table , uses bootstrap4 and contains a table
-* list = contains a bulleted list , uses b.css which is converted from b.scss and uses scss features like nesting,etc
-* image = contains a image from the net 
+* index.html = has a basic introduction ,which uses a.css, and is the first page of website
+* table.html = contains a table , uses bootstrap4 and contains a table
+* list.html = contains a bulleted list , uses b.css which is converted from b.scss and uses scss features like nesting,etc
+* image.html = contains a image from the net 
