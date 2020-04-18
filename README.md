@@ -11,3 +11,9 @@ Web Programming with Python and JavaScript
  - [x] You must use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
  - [x] Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
  - [x] In README.md, include a short writeup describing your project, what’s contained in each file, and (optionally) any other additional information the staff should know about your project.
+
+the website contains 4 html pages
+1.index = has a basic introduction ,which uses a.css, and is the first page of website
+2.table = contains a table , uses bootstrap4 and contains a table
+3.list = contains a bulleted list , uses b.css which is converted from b.scss and uses scss features like nesting,etc
+4.image = contains a image from the net 
